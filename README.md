@@ -1,5 +1,5 @@
 # Transition_Plan
-This is a sample Transition Plan document for step by step transition with planning each step and getting feedback for the same and revise accordingly
+This is a sample Transition Plan document for step by step transition with planning each step and getting feedback for the same and revise accordingly.
 To **plan a transition from a third-party development team to in-house**, you need to approach it like a short-term project with well-defined phases, responsibilities, and outcomes. Below is a detailed step-by-step guide to help you **create and execute a smooth transition plan**.
 
 ---
